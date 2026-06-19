@@ -2,9 +2,9 @@
 
 Ce dépôt regroupe mes projets réalisés dans trois cadres différents de ma formation.
 
-# Alexandra Lin
+# Alexandra DING
 
-Étudiante en Licence Informatique (Paris 8) et à l'École 42.
+Étudiante en Licence Informatique Paris8 et à l'École 42.
 
 ## Tech Stack
 
