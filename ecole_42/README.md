@@ -1,6 +1,6 @@
 # Ecole 42
 
-Ce dossier regroupe les projets que j'ai réalisés dans le cadre de la formation Ecole 42.
+Ce dossier regroupe quelques projets que j'ai réalisés dans le cadre de la formation Ecole 42.
 
 ## Projets
 
