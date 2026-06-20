@@ -46,6 +46,6 @@ Ce projet a remporté le **1er Prix** du concours API8.
 
 ## Auteur
 
-Alexandra Lin
+Alexandra Ding
 
 Étudiante en Licence Informatique et à l'école 42.
