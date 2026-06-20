@@ -2,9 +2,9 @@
 
 Ce dépôt présente deux projets réalisés en GDScript avec Godot dans le cadre du concours API8.
 
-## 🥇 Cozy Tomato
+## 🥈 Cozy Tomato
 
-**1er Prix - Track 2**
+**2e Prix - Track 2**
 
 Cozy Tomato est un jeu entièrement réalisé seule.
 
@@ -16,13 +16,13 @@ Cozy Tomato est un jeu entièrement réalisé seule.
 * Interface utilisateur
 * Musiques et effets sonores créés avec BeepBox
 
-Ce projet a remporté le **1er Prix de la Track 2** du concours API8.
+Ce projet a remporté le **2e Prix de la Track 2** du concours API8.
 
 ---
 
-## 🥈 Frogger
+## 🥇 Frogger
 
-**2e Prix**
+**1er Prix**
 
 Frogger a été développé dans le cadre d'une contrainte technique particulière : l'intégralité du jeu devait être réalisée dans **un seul Node Godot**.
 
@@ -33,7 +33,7 @@ Frogger a été développé dans le cadre d'une contrainte technique particuliè
 * Dessins générés directement dans le code à l'aide de coordonnées numériques et de primitives graphiques
 * Aucun sprite ou asset graphique externe
 
-Ce projet a remporté le **2e Prix** du concours API8.
+Ce projet a remporté le **1er Prix** du concours API8.
 
 ---
 
